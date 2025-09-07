@@ -1,3 +1,2 @@
 # Shell
-Schell Scripts
-#¡™£¢∞§¶•ªº–≠‘“«æ…÷≥≤`§
+Schell Scripts update_description
